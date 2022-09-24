@@ -193,7 +193,7 @@ img {
 
 /* Index main content */
 
-.first-bgc {
+.hero {
   background-color: var(--bgc-dark);
   text-align: center;
   height: 600px;
